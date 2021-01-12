@@ -1,2 +1,2 @@
 # Space-Shooter-
-Сделал игру за пол дня, потому что завтра переезжаю :) Реализовал все, требуемые Вами условия. Вот только Save/ Load надо доделать, но он Scriptable. Если нужно будет доделать, сразу дайте знать (смогу послезавтра :))
+An unfinished spaceshooter game based on a different project with some extra functianality added. 
