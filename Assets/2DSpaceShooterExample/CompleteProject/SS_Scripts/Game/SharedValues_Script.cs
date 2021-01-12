@@ -13,14 +13,15 @@
 using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class SharedValues_Script : MonoBehaviour 
 {
 	//Public Var
-	public GUIText scoreText; 				//GUI Score
-	public GUIText GameOverText; 			//GUI GameOver
-	public GUIText FinalScoreText; 			//GUI Final Score
-	public GUIText ReplayText; 				//GUI Replay
+	public Text scoreText; 				//GUI Score
+	public Text GameOverText; 			//GUI GameOver
+	public Text FinalScoreText; 			//GUI Final Score
+	public Text ReplayText; 				//GUI Replay
 
 	//Public Shared Var
 	public static int score = 0; 			//Total in-game Score
